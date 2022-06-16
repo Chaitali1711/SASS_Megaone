@@ -1,0 +1,94 @@
+/*background style*/
+/*Text color*/
+@media screen and (max-width: 992px) {
+  .hidden {
+    display: none;
+  }
+  .creative-div {
+    width: 100%;
+  }
+  .heading {
+    font-size: 46px;
+  }
+  .btn-anim {
+    width: 35%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: auto;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .asset16 {
+    width: 85%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: auto;
+  }
+  .digital-agency-div {
+    width: 100%;
+  }
+  .bg-green {
+    padding-right: 0px;
+  }
+  .content-margin {
+    margin-top: 37rem;
+    margin-bottom: -32rem;
+  }
+  .main-team {
+    width: 100%;
+    margin-top: 35rem;
+  }
+  .swipe {
+    margin-top: -3rem;
+  }
+  .portfolio .nav {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .creative-beans, .web-design, .logo-design, .i-cocooil {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .portfolio .projects {
+    display: contents;
+  }
+  .satisfied-customer {
+    margin: 5rem 0;
+    text-align: center;
+  }
+  .brand .carousel-item {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  .blog-div {
+    width: 100%;
+    text-align: center;
+  }
+  .blog-div .asset14 {
+    margin: 0px;
+    width: 85%;
+  }
+  .location-div h3 {
+    margin-top: revert;
+  }
+  .footer .icons {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+/*# sourceMappingURL=mediaQry.css.map */

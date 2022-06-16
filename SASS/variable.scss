@@ -1,0 +1,45 @@
+/*background style*/
+$nav1:#f71c52;
+$nav2:#554c86;
+$nav3:#39d47a;
+$bg-pink:#f71c52;
+$bg-fb:#554c88;
+$bg-twt:rgb(90, 177, 199);
+$bg-linkedin:#315c9c;
+$bg-insta:linear-gradient(45deg, #4811ed, #9100d9, #bb00c2, #d900ab, #ee0094, #fd007d, #ff0068, #ff0055, #ff1b43, #ff4833, #ff6423, #fa7b14);
+
+
+/*Text color*/
+$t-white:#ffffff;
+$t-pink:#f71c52;
+$t-gray:#a1a0a1;
+$t-lightblue:#8799a3;
+$caption:rgba(0, 0, 0, 0.63);
+
+$fs-75:75px;
+$fs-85:85px;
+$fs-30:30px;
+$fs-40:40px;
+$fs-p-18:18px;
+$fs-sub-title:20px;
+$fs-title:35px;
+$fs-nav-13:13px;
+$fs-btn:14px;
+$fs-resp-h1:55px;
+//font weight
+$fwt-100:100;
+//font style
+$fst-para:'Roboto Condensed', sans-serif;
+//$fst-subtitle:'Roboto Condensed', sans-serif;
+$fst-title:'League Gothic', sans-serif;
+
+
+@mixin dot-border{
+    border:dotted 1px #f71c52;
+}
+
+@mixin icon-align{
+    display: flex;;
+    justify-content: center;
+    align-items: center;
+}
